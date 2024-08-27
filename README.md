@@ -1,5 +1,5 @@
 # Commonwealth-Bank
-Task 1: Data Aggregation and Analysis
+### Task 1: Data Aggregation and Analysis
 ## Learn
 Understand the importance of data engineering and analysis in a long-term data-focused vision.
 Gain experience in using real-world transactional data for analysis.
