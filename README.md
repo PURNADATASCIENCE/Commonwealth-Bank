@@ -28,4 +28,4 @@ The data engineering team is responsible for building data engineering pipelines
 
 > Across all payment methods, how much money was spent at the Bakershire store location by non-member customers?
 
-''' Used data set named “supermarket_transactions.xlsx.” '''
+**Used data set named “supermarket_transactions.xlsx.”**
